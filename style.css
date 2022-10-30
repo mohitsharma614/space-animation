@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    text-align: center;
+    color:#82a5ca;
+    background-color:black;
+    
+
+
+}
+#rajaji{
+    width: fit-content;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("giphy.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+#logo{
+ 
+    width: 60px;
+    margin-left: -300px;
+}
+.btn{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    color: #82a5ca;
+    font-weight: 800;
+}
+#title{
+    text-shadow: 0px 0px 4px goldenrod;
+}
+.underline{
+    border-bottom: 4px solid red;
+}
